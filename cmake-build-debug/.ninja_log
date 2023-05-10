@@ -1,0 +1,13 @@
+# ninja log v5
+1	1136	7054502125058269	CMakeFiles/ejtipopa.dir/main.cpp.obj	7a55c47c5ffd477b
+37	1173	7054502125421941	CMakeFiles/ejtipopa.dir/Material.cpp.obj	a24cb614a86ee66b
+1175	1588	7054502129517823	ejtipopa.exe	4df6671d90aa7c23
+6	1619	7054503202025851	CMakeFiles/ejtipopa.dir/main.cpp.obj	7a55c47c5ffd477b
+1621	1831	7054503204078731	ejtipopa.exe	4df6671d90aa7c23
+6	554	7054503564923822	CMakeFiles/ejtipopa.dir/main.cpp.obj	7a55c47c5ffd477b
+556	730	7054503566618180	ejtipopa.exe	4df6671d90aa7c23
+9	616	7054505208893315	CMakeFiles/ejtipopa.dir/main.cpp.obj	7a55c47c5ffd477b
+25	648	7054505209198147	CMakeFiles/ejtipopa.dir/Material.cpp.obj	a24cb614a86ee66b
+649	823	7054505210832961	ejtipopa.exe	4df6671d90aa7c23
+8	738	7054506397573718	CMakeFiles/ejtipopa.dir/Material.cpp.obj	a24cb614a86ee66b
+739	965	7054506399751741	ejtipopa.exe	4df6671d90aa7c23
